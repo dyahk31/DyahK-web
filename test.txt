@@ -1,6 +1,6 @@
 langkah membuat web
 1. buat html
 2. buat css
-3. bikin design
 4. upload ke server
 5. isi javascript
+6. publish
