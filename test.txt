@@ -3,3 +3,4 @@ langkah membuat web
 2. buat css
 3. bikin design
 4. upload ke server
+5. isi javascript
