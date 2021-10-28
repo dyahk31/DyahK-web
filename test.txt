@@ -1,0 +1,3 @@
+langkah membuat web
+1. buat html
+2. buat css
